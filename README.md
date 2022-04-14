@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm logan bartonio</h1>
+<h1 align="center">Hi 👋 </h1>
 <h3 align="center">blockchain, Javascript</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lbchainexpt&label=Profile%20views&color=0e75b6&style=flat" alt="lbchainexpt" /> </p>
